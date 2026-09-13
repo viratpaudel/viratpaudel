@@ -11,6 +11,7 @@
 
 ### Building elegant solutions, one project at a time
 
+[![Website](https://img.shields.io/badge/Website-viratpaudel.vercel.app-blue?style=flat-square)](https://viratpaudel.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-viratpaudel-181717?style=flat-square&logo=github)](https://github.com/viratpaudel)
 
 </div>

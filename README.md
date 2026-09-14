@@ -22,7 +22,7 @@
 
 ```js
 const virat = {
-  currently:  "exploring full-stack development & DSA",
+  currently:  "exploring full-stack development , crypto & DSA ",
   learning:   ["system design", "backend optimization", "scalable architecture"],
   building:   ["web apps", "automation tools", "ML projects"],
   passionate_about: ["clean code", "problem solving", "open source"],
